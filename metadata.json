@@ -1,0 +1,9 @@
+{
+  "name": "3D LaminCards Wallpapers",
+  "description": "Transform your images into immersive 3D wallpapers with dynamic lighting, shadows, and depth effects controlled by your mouse or device gyroscope.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
